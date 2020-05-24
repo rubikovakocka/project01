@@ -7,7 +7,7 @@ Practice team project. Practice together is better.
 
 ```bash
 git clone https://github.com/rubikovakocka/project01.git
-cd warehouse
+cd project01
 ```
 
 ##### Copy DBconfig_example.php to DBconfig.php and update necessary variables for connectig to database
